@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm @atfed!</h1>
-<h3 align="center">A full stack developer from the UK</h3>
+<h3 align="center">A full stack developer from the UK :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atfed&label=Profile%20views&color=0e75b6&style=flat" alt="atfed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atfed" alt="atfed" /></a> </p>
+- 🔭 I’m currently working on: **an Instagram Automation Project**
 
-- 🔭 I’m currently working on **an Instagram Automation Project**
+- 🌱 I’m currently learning: **JS, Rust, C#, Vim**
 
-- 🌱 I’m currently learning **JS, Rust, C#, Vim**
-
-- ⚡ Fun fact **i exist**
+- ⚡ Fun fact: **i exist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
